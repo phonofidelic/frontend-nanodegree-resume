@@ -1,0 +1,11 @@
+References used: 
+* https://developer.mozilla.org/en-US/
+* http://jquery.com/
+* http://jsonlint.com/
+* http://helephant.com/2008/08/17/how-javascript-objects-work/
+* https://developers.google.com/maps/documentation/javascript/reference#Map
+* http://getbootstrap.com/javascript/#modals
+* http://en.wikipedia.org/wiki/Document_Object_Model
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+* https://piazza.com/class/i36sqlrb9xu332?cid=177
+* https://piazza.com/class/i36sqlrb9xu332?cid=338
